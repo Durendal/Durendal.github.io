@@ -9,7 +9,7 @@ main:
   - title: "Archive"
     url: /archive/
   - title: "Sitemap"
-    url: /sitemap/
+    url: /sitemap.xml
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
