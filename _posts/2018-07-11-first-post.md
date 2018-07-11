@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Welcome to Durendals-Domain"
 date: 2018-07-11 16:01:00 +0600
 categories: general
