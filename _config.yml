@@ -105,7 +105,7 @@ author:
   bio              : "Blockchain Developer, Entrepreneur, Malevolent Dictator."
   location         : "Canada"
   email            : "durendal@durendals-domain.com"
-  uri              : "www.durendals-domain.com"
+  uri              : "http://www.durendals-domain.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
