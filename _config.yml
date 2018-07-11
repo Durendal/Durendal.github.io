@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Durendals Domain"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Durendal"
+description              : "Musings from a nerd"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "durendal420"
 facebook:
   username               :
   app_id                 :
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brian Hewitt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Blockchain Developer, Entrepreneur, Malevolent Dictator."
+  location         : "Canada"
+  email            : "durendal@durendals-domain.com"
+  uri              : "www.durendals-domain.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "Durendal"
   gitlab           :
   google_plus      :
   keybase          :
