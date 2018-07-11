@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Brian Hewitt"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kappa1337.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Blockchain Developer, Entrepreneur, Malevolent Dictator."
   location         : "Canada"
   email            : "durendal@durendals-domain.com"
