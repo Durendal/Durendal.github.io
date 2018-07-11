@@ -5,9 +5,9 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /_pages/about/
+    url: /about/
   - title: "Archive"
-    url: /_pages/archive/
+    url: /archive/
   - title: "Sitemap"
     url: /sitemap/
   # - title: "Sample Posts"
