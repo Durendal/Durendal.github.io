@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/durendal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.durendals-domain.com
+  * I am durendal (https://keybase.io/durendal) on keybase.
+  * I have a public key ASAqih7Qp-XJo7Q64MLo-iNpiWYLOdtjmoIQA8UXsxhmrAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202a8a1ed0a7e5c9a3b43ae0c2e8fa236989660b39db639a821003c517b31866ac0a",
+            "host": "keybase.io",
+            "kid": "01202a8a1ed0a7e5c9a3b43ae0c2e8fa236989660b39db639a821003c517b31866ac0a",
+            "uid": "92a5271e73561abe92e808de07582819",
+            "username": "durendal"
+        },
+        "service": {
+            "hostname": "www.durendals-domain.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1495831885,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495831872,
+        "hash": "b6f444fa7dbec5d3741d507de335c2ff32227b10893126f9cde0d412790506b465360849360878974275e7dcefda41388e6ea8d074d881b346260f97733520f5",
+        "seqno": 1117831
+    },
+    "prev": "43a32f14066732b4b65e0894b5adbe55630820e85cc70079af5b39788d69783e",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKooe0KflyaO0OuDC6PojaYlmCznbY5qCEAPFF7MYZqwKp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmE4YTFlZDBhN2U1YzlhM2I0M2FlMGMyZThmYTIzNjk4OTY2MGIzOWRiNjM5YTgyMTAwM2M1MTdiMzE4NjZhYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmE4YTFlZDBhN2U1YzlhM2I0M2FlMGMyZThmYTIzNjk4OTY2MGIzOWRiNjM5YTgyMTAwM2M1MTdiMzE4NjZhYzBhIiwidWlkIjoiOTJhNTI3MWU3MzU2MWFiZTkyZTgwOGRlMDc1ODI4MTkiLCJ1c2VybmFtZSI6ImR1cmVuZGFsIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZHVyZW5kYWxzLWRvbWFpbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIzIn0sImN0aW1lIjoxNDk1ODMxODg1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTU4MzE4NzIsImhhc2giOiJiNmY0NDRmYTdkYmVjNWQzNzQxZDUwN2RlMzM1YzJmZjMyMjI3YjEwODkzMTI2ZjljZGUwZDQxMjc5MDUwNmI0NjUzNjA4NDkzNjA4Nzg5NzQyNzVlN2RjZWZkYTQxMzg4ZTZlYThkMDc0ZDg4MWIzNDYyNjBmOTc3MzM1MjBmNSIsInNlcW5vIjoxMTE3ODMxfSwicHJldiI6IjQzYTMyZjE0MDY2NzMyYjRiNjVlMDg5NGI1YWRiZTU1NjMwODIwZTg1Y2M3MDA3OWFmNWIzOTc4OGQ2OTc4M2UiLCJzZXFubyI6MTgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAcz8jbOX8ilPFfo7fteV77P1aUnlQ2rOnLAosyaXPMrUXq+0LlgkrWJkVmPr1nNOuuMshLqakvk5f3qBCUulAAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINGcAKPziBz+GW8NLWNYKxsAmoZA6QsCgkWKWYCrdY5oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/durendal
+
+==================================================================
